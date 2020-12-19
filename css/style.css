@@ -865,7 +865,7 @@ section{
 }
 
 .counter .title{
-  font-size: 15px;
+  font-size: 20px;
   float: left;
   line-height: 19px;
   padding-left: 13px;
@@ -2079,4 +2079,8 @@ section {
   font-size: 40px;
   line-height: 50px;
 }
+}
+
+.fz {
+  font-size: 22px;
 }
