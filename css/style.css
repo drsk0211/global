@@ -32,7 +32,7 @@ html, body {
 }
 
 body{
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Google Sans', sans-serif;
   padding-bottom: 206px;
 }
 
@@ -254,6 +254,7 @@ header nav ul li{
 
 header nav ul li a span:before {
   position: absolute;
+  
   top: 100%;
   width: 100%;
   left: 0;
@@ -263,6 +264,7 @@ header nav ul li a span:before {
 header nav ul li a span {
   position: relative;
   display: block;
+
   -webkit-transition: -webkit-transform 0.2s;
   transition: transform 0.2s;
   transform-origin: 100% 0%;
@@ -547,8 +549,8 @@ header nav ul li a:focus{
 
 .slider-content h1{
   color: #fff;
-  font-size: 120px;
-  font-weight: 900;
+  font-size: 70px;
+  font-weight: 500;
   line-height: 130px;
   opacity: 0;
   transform: translateX(100px);
