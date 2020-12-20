@@ -2084,3 +2084,15 @@ section {
 .fz {
   font-size: 22px;
 }
+
+.nepod {
+  margin-top: 40px;
+}
+
+.nepod p {
+  font-size: 19px;
+}
+
+.dlya ul {
+  list-style: none;
+}
